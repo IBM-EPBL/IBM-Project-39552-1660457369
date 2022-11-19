@@ -58,4 +58,4 @@ def send_alert(Body:str = 'There is Fire!!', To:int = To) -> None :
         
 
 if __name__=='__main__':
-    send_alert(To='+918667781558')
+    send_alert()
